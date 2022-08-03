@@ -1,5 +1,5 @@
 {
-  "name": "tesla",
+  "name": "my-app",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -20,7 +20,5 @@
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
-  "private": true,
-  "author": "Schmaltz <SiriusVisualsBusiness@gmail.com>",
-  "license": "MIT"
+  "private": true
 }
